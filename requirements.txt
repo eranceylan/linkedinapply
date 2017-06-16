@@ -23,5 +23,3 @@ six==1.10.0
 textblob==0.12.0
 tweepy==3.5.0
 virtualenv==15.1.0
-win32core==221.23
-win32gui==221.3
