@@ -11,7 +11,6 @@ oauthlib==2.0.2
 olefile==0.44
 packaging==16.8
 Pillow==4.1.1
-PyAutoGUI==0.9.36
 PyMsgBox==1.0.6
 pyparsing==2.2.0
 PyScreeze==0.1.11
