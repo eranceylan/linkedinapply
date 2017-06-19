@@ -1,1 +1,1 @@
-web: gunicorn application:linkedinapply.py
+web: gunicorn pp:linkedinapply.py
