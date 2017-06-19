@@ -10,7 +10,6 @@ oauthlib==2.0.2
 olefile==0.44
 packaging==16.8
 parse==1.8.2
-PyAutoGUI==0.9.36
 PyMsgBox==1.0.6
 pyparsing==2.2.0
 requests==2.14.2
