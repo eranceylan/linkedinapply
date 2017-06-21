@@ -1,1 +1,1 @@
-web: gunicorn application:linkedinapply.py
+web: python linkedinapply.py -agentlib:TakipiAgent
